@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Giris/GirisSayfasi.unity
+    guid: d7bb6ee04d3bd0d429e8132a1028afe6
+  - enabled: 1
+    path: Assets/Ogrenci/OgrenciGirisSayfasi.unity
+    guid: 94b56ef293351cc4f991a0ac829f609e
+  - enabled: 1
+    path: Assets/Ogretmen/OgretmenGirisSayfasi.unity
+    guid: 6764658270053734fbd3d73382391f6a
+  - enabled: 1
+    path: Assets/Ogretmen/OgretmenSayfasi.unity
+    guid: efb45a44e8744f246bee7445568dfb35
+  - enabled: 1
+    path: Assets/Ogrenci/OgrenciSayfasi.unity
+    guid: 0061b522816554d4e84533040d0fe059
   m_configObjects: {}
