@@ -24,7 +24,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _Sensitivity: 0.17
-    - _Smooth: 0.5
+    - _Sensitivity: 0.2
+    - _Smooth: 0.29
     m_Colors:
-    - _MaskCol: {r: 0.3544867, g: 1, b: 0, a: 1}
+    - _MaskCol: {r: 0.066082224, g: 0.0835979, b: 0.9339623, a: 1}
