@@ -12,7 +12,7 @@ public class Ogrenci_Giris : MonoBehaviour
 
     public void giris_Button()
     {
-        if (kullaniciAdi.text == "161180053" & sifre.text == "12345")
+        if ((kullaniciAdi.text == "161180053" & sifre.text == "12345") || (kullaniciAdi.text == "161180069" & sifre.text == "123456") || (kullaniciAdi.text == "171180007" & sifre.text == "1234567"))
         {
             SceneManager.LoadScene("OgrenciSayfasi");
         }
